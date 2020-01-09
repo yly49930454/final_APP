@@ -80,6 +80,12 @@ print(req[‘result’])
     “log_id”: 1968648150
 }
 ```
+* API比较
 
+* 腾讯/阿里均无自行建库并搜索的API服务
+
+* API价格
+![](https://github.com/yly49930454/final_APP/blob/master/media/%E6%88%AA%E5%B1%8F2020-01-09%E4%B8%8B%E5%8D%884.44.12.png)
+![](https://github.com/yly49930454/final_APP/blob/master/media/%E6%88%AA%E5%B1%8F2020-01-09%E4%B8%8B%E5%8D%884.44.19.png)
 # 不做
 * 可以让用户给他喜欢的照片点赞或收藏等互动
