@@ -83,7 +83,8 @@ print(req[‘result’])
 ## API比较
 
 * 腾讯/阿里均无自行建库并搜索的API服务
-
+## API风险
+* 所使用的API在当前市场上暂无类似产品，但将来并不排除会被更优秀的解决方案替代
 ## API价格
 ![](https://github.com/yly49930454/final_APP/blob/master/media/%E6%88%AA%E5%B1%8F2020-01-09%E4%B8%8B%E5%8D%884.44.12.png)
 ![](https://github.com/yly49930454/final_APP/blob/master/media/%E6%88%AA%E5%B1%8F2020-01-09%E4%B8%8B%E5%8D%884.44.19.png)
