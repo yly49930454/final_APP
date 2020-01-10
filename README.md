@@ -1,5 +1,5 @@
 # 相册地图APP PRD
-* [20x20 ppt展示(172017487叶立业)](https://github.com/yly49930454/final_APP/blob/master/20x20.pptx)
+* [20x20 ppt展示(172017487叶立业)](https://github.com/yly49930454/final_APP/raw/master/20x20.pptx)
 # Product Requirements
 |发布日期|2019.12.05|
 |---|---|
